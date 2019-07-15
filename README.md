@@ -1,6 +1,6 @@
 # top-nine-BE API
 
-## Base URL: https://top-nine.herokuapp.com/
+## Base URL: https://bw-my-top-nine.herokuapp.com/
 
 ---
 
